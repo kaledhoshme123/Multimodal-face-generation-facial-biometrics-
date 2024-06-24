@@ -18,7 +18,7 @@
 # Results:
 ## Samples of the results reached:
 
-| Attempt | #1    |
+| Examples | #Outputs    |
 | :---:   | :---: |
 | ![image](https://github.com/kaledhoshme123/Multimodal-face-generation-facial-biometrics-/assets/108609519/305a1ce0-fc91-4f3a-98f1-14687becd7ba)| ![__results___38_2](https://github.com/kaledhoshme123/Multimodal-face-generation-facial-biometrics-/assets/108609519/e20aa64f-9eff-4423-8550-babc5a494775)|
 | ![image](https://github.com/kaledhoshme123/Multimodal-face-generation-facial-biometrics-/assets/108609519/1df353ad-d7a7-4d9e-9cee-3809520779ae) | ![__results___39_2](https://github.com/kaledhoshme123/Multimodal-face-generation-facial-biometrics-/assets/108609519/30a2768f-4f3e-4f0d-858d-8601d8216586)|
@@ -28,7 +28,6 @@
 | ![image](https://github.com/kaledhoshme123/Multimodal-face-generation-facial-biometrics-/assets/108609519/b8d2b03a-17c3-4788-9a16-1094223a3d28) | ![__results___43_2](https://github.com/kaledhoshme123/Multimodal-face-generation-facial-biometrics-/assets/108609519/a4f90295-0832-4cb0-996d-ef3b557320c1)|
 | ![image](https://github.com/kaledhoshme123/Multimodal-face-generation-facial-biometrics-/assets/108609519/85e09bd7-cf54-4657-969b-568ee0252bd3)| ![__results___44_2](https://github.com/kaledhoshme123/Multimodal-face-generation-facial-biometrics-/assets/108609519/3a09d0a9-6f77-4ad4-8270-9b99e582a148)|
 | ![image](https://github.com/kaledhoshme123/Multimodal-face-generation-facial-biometrics-/assets/108609519/6dd40360-3607-48bf-9e6e-16bae57e6ea7)| ![__results___46_2](https://github.com/kaledhoshme123/Multimodal-face-generation-facial-biometrics-/assets/108609519/c1eab432-fd3a-48e2-a2f3-964a20eb043f)|
-| ![image](https://github.com/kaledhoshme123/Multimodal-face-generation-facial-biometrics-/assets/108609519/1285d73e-232f-48e0-97b6-9d7d7b0ea2af)| ![__results___46_2](https://github.com/kaledhoshme123/Multimodal-face-generation-facial-biometrics-/assets/108609519/bde8e374-d340-4ace-b104-01fedcd95eb8)|
 | ![image](https://github.com/kaledhoshme123/Multimodal-face-generation-facial-biometrics-/assets/108609519/2891ae4a-7113-44fd-819e-bc04a4997005)| ![__results___48_2](https://github.com/kaledhoshme123/Multimodal-face-generation-facial-biometrics-/assets/108609519/fec74d71-bb44-41af-8b5e-4efd6afb491b)|
 
 - Note: The vast majority of the data sets that were used include pictures of people with white skin, and therefore there are a small number of black people in the data set, and even within the data set there is not a large number of pictures of Asian people. Therefore, you can retrain with a larger data set than the one I used
